@@ -3,22 +3,22 @@ Arduino Computer Lock
 A hardware-based computer security lock built as a senior capstone project. The system requires a user to enter the correct passcode on a keypad before the Arduino can activate the PC's power switch, preventing unauthorized use of the computer.
 
 Features:
-Password-protected computer power button
-LED status indicators
-Communication between the Uno R4 and Nano Every using I2C
-Randomly generated passcode every hour
+1. Password-protected computer power button
+2. LED status indicators
+3. Communication between the Uno R4 and Nano Every using I2C
+4. Randomly generated passcode every hour
 
 Hardware:
-Arduino Uno R4 
-Arduino Nano Every
-3×4 Matrix Keypad (DIYables)
-16×2 I2C LCD
-NOT Gate Schmitt Trigger (74HC14)
-Logic Level Shifter (TCA9517D)
-PNP Transistor
-Red and Green LEDs
-Resistors (1x 100 ohm, 2x 180 ohm, 2x 1k ohm, and 2x 4k ohm)
-Breadboard and jumper wires
+1. Arduino Uno R4 
+2. Arduino Nano Every
+3. 3×4 Matrix Keypad (DIYables)
+4. 16×2 I2C LCD
+5. NOT Gate Schmitt Trigger (74HC14)
+6. Logic Level Shifter (TCA9517D)
+7. PNP Transistor
+8. Red and Green LEDs
+9. Resistors (1x 100 ohm, 2x 180 ohm, 2x 1k ohm, and 2x 4k ohm)
+10. Breadboard and jumper wires
 
 Installation
 1. Download the Project
