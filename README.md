@@ -77,10 +77,10 @@ Once configured, the generated passcode will automatically synchronize with the 
 
 Upload each sketch to its corresponding Arduino.
 
-| Sketch                 | Board              |
-| ---------------------- | ------------------ |
-| `CAPSTONE-UNOR4-Slave` | Arduino Uno R4     |
-| `CAPSTONE-NANO-Master` | Arduino Nano Every |
+| Sketch        | Board              |
+| ------------- | ------------------ |
+| `UNOR4-Slave` | Arduino Uno R4     |
+| `NANO-Master` | Arduino Nano Every |
 
 ---
 
