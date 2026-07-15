@@ -2,14 +2,14 @@ Arduino Computer Lock
 
 A hardware-based computer security lock built as a senior capstone project. The system requires a user to enter the correct passcode on a keypad before the Arduino can activate the PC's power switch, preventing unauthorized use of the computer.
 
-Features
+Features:
 Password-protected computer power button
 LED status indicators
 Communication between the Uno R4 and Nano Every using I2C
 Randomly generated passcode every hour
 
 Hardware:
-Arduino Uno R4
+Arduino Uno R4 
 Arduino Nano Every
 3×4 Matrix Keypad (DIYables)
 16×2 I2C LCD
